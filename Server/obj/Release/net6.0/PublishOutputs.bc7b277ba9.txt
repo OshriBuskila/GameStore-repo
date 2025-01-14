@@ -1,0 +1,17 @@
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\GameStore.exe
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\GameStore.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\GameStore.deps.json
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\GameStore.runtimeconfig.json
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\GameStore.pdb
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Owner\Desktop\GameStore\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
